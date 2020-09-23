@@ -1,0 +1,9 @@
+C:\Users\Eren\source\repos\HesapMakinesiRadioButton\HesapMakinesiRadioButton\bin\Debug\HesapMakinesiRadioButton.exe.config
+C:\Users\Eren\source\repos\HesapMakinesiRadioButton\HesapMakinesiRadioButton\bin\Debug\HesapMakinesiRadioButton.exe
+C:\Users\Eren\source\repos\HesapMakinesiRadioButton\HesapMakinesiRadioButton\bin\Debug\HesapMakinesiRadioButton.pdb
+C:\Users\Eren\source\repos\HesapMakinesiRadioButton\HesapMakinesiRadioButton\obj\Debug\HesapMakinesiRadioButton.Form1.resources
+C:\Users\Eren\source\repos\HesapMakinesiRadioButton\HesapMakinesiRadioButton\obj\Debug\HesapMakinesiRadioButton.Properties.Resources.resources
+C:\Users\Eren\source\repos\HesapMakinesiRadioButton\HesapMakinesiRadioButton\obj\Debug\HesapMakinesiRadioButton.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\HesapMakinesiRadioButton\HesapMakinesiRadioButton\obj\Debug\HesapMakinesiRadioButton.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\HesapMakinesiRadioButton\HesapMakinesiRadioButton\obj\Debug\HesapMakinesiRadioButton.exe
+C:\Users\Eren\source\repos\HesapMakinesiRadioButton\HesapMakinesiRadioButton\obj\Debug\HesapMakinesiRadioButton.pdb
